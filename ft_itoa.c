@@ -14,8 +14,7 @@
 
 static int	len_num(long int n)
 {
-	int	i;
-
+	int	i;ml0
 	if (n == 0)
 		return (1);
 	i = 0;
